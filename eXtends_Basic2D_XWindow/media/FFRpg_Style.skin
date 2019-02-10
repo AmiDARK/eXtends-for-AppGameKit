@@ -1,0 +1,15 @@
+[XWINDOW_SKIN]
+FFRpg_Style
+ff_border_topleft.png
+ff_border_top.png
+ff_border_topright.png
+ff_border_left.png
+ff_background64.png
+ff_border_right.png
+ff_border_bottomleft.png
+ff_border_bottom.png
+ff_border_bottomright.png
+ff_border_title.png
+ff_dragging.png
+ff_close.png
+[END_XWINDOW_SKIN]

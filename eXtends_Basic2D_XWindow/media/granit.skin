@@ -1,0 +1,15 @@
+[XWINDOW_SKIN]
+granit
+gr_border_topleft.png
+gr_border_top.png
+gr_border_topright.png
+gr_border_left.png
+gr_background64.png
+gr_border_right.png
+gr_border_bottomleft.png
+gr_border_bottom.png
+gr_border_bottomright.png
+gr_border_title.png
+gr_dragging.png
+gr_close.png
+[END_XWINDOW_SKIN]

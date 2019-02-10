@@ -1,0 +1,22 @@
+X4 RealTime-SkyBox Definition
+CIEL:
+rts_desertmontain_BleuCiel.png
+NUAGES:
+rts_desertmontain_Ciel1.png
+ETOILES:
+rts_desertmontain_ieletoile_2018.png
+SOLEIL:
+rts_desertmontain_soleil.png
+LUNE:
+rts_desertmontain_lune.png
+HALOLEVER:
+rts_desertmontain_lever.png
+HALOCOUCHER:
+rts_desertmontain_coucher.png
+AURORE:
+rts_desertmontain_crepuscule.png
+BACKGROUND:
+rts_desertmontain_mountains.png
+GROUND:
+rts_desertmontain_ground.png
+ENDOFRSD

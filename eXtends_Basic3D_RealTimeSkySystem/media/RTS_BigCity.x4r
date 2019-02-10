@@ -1,0 +1,22 @@
+X4 RealTime-SkyBox Definition
+CIEL:
+rts_bigcity_bleuciel.png
+NUAGES:
+rts_bigcity_ciel3.png
+ETOILES:
+rts_bigcity_cieletoile_2018.png
+SOLEIL:
+rts_bigcity_soleil.png
+LUNE:
+rts_bigcity_lune.png
+HALOLEVER:
+rts_bigcity_lever.png
+HALOCOUCHER:
+rts_bigcity_coucher.png
+AURORE:
+rts_bigcity_crepuscule.png
+BACKGROUND:
+rts_bigcity_villeriche.png
+GROUND:
+rts_bigcity_ground.png
+ENDOFRSD

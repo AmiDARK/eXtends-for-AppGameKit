@@ -1,0 +1,15 @@
+[XWINDOW_SKIN]
+Custom
+csTopLeft.png
+csTop.png
+csTopRight.png
+csLeft.png
+csCentre.png
+csRight.png
+csBottomLeft.png
+csBottom.png
+csBottomRight.png
+csTop.png
+csDragging.png
+csClose.png
+[END_XWINDOW_SKIN]

@@ -1,0 +1,22 @@
+X4 RealTime-SkyBox Definition
+CIEL:
+rts_SnowMountain_BleuCiel.png
+NUAGES:
+rts_SnowMountain_Ciel1.png
+ETOILES:
+rts_SnowMountain_cieletoile.png
+SOLEIL:
+rts_SnowMountain_soleil.png
+LUNE:
+rts_SnowMountain_lune.png
+HALOLEVER:
+rts_SnowMountain_lever.png
+HALOCOUCHER:
+rts_SnowMountain_coucher.png
+AURORE:
+rts_SnowMountain_crepuscule.png
+BACKGROUND:
+rts_SnowMountain_mountains.png
+GROUND:
+rts_SnowMountain_Ground.png
+ENDOFRSD
