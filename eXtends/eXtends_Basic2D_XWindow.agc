@@ -252,7 +252,6 @@ Function XWindow_SetBorderOff( WinNum As Integer )
 	EndIf
 EndFunction
 
-.
 Function XWindow_SetBorderOn( WinNum As Integer )
 	If WinNum > -1 And WinNum < 16
 		Title As Integer : Title = XWindow[ WinNum ].Title

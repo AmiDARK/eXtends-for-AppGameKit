@@ -151,6 +151,14 @@ Function XFont_SetCursor( XCursor As Integer , YCursor As Integer )
 	XFontsys.XCursor = XCursor
 	XFontsys.YCursor = YCursor
  EndFunction
+
+// *****************************************************************************************************************************
+/**  Méthode                            : XFont_SetCurrentFont
+//
+// Description                          : Change the current font used for drawing text on screen
+//
+// @FontNumber As Integer               : Font index number
+*/
  
 Function XFont_SetCurrentFont( FontNumber As Integer ) 
 	If FontNumber > 0 And FontNumber < 17
